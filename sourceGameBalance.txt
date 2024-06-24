@@ -1,0 +1,880 @@
+<table class="historical_data_table table">
+            <thead>
+              <tr>
+               <th colspan="2" style="text-align:center">GameStop Quarterly Revenue<br><span style="font-size:14px;">(Millions of US $)</span></th>
+              </tr>
+            </thead>          
+            <tbody>
+            
+                                    
+            <tr>
+               <td style="text-align:center">2020-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,021</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2020-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,194</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2019-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,439</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2019-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,286</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2019-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,548</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2019-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$3,063</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2018-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,935</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2018-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,501</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2018-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,786</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2018-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,825</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2017-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,989</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2017-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,688</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2017-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,046</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2017-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,403</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2016-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,959</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2016-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,632</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2016-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,972</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2016-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$3,525</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2015-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,016</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2015-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,762</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2015-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,061</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2015-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$3,476</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2014-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,092</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2014-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,731</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2014-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,996</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2014-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$3,684</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2013-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,107</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2013-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,384</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2013-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,865</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2013-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$3,562</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2012-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,773</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2012-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,550</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2012-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,002</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2012-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$3,579</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2011-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,947</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2011-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,744</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2011-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,281</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2011-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$3,693</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2010-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,899</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2010-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,799</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2010-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,083</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2010-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$3,524</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2009-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,835</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2009-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,739</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2009-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,981</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2009-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$3,492</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2008-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,696</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2008-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,804</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2008-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,814</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2008-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,866</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2007-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,611</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2007-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,338</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2007-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,279</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2007-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$2,304</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2006-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,012</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2006-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$963</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2006-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,040</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2006-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$1,667</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2005-10-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$534</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2005-07-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$416</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2005-04-30</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$475</td>
+                  
+                           
+                        
+              </tr>
+              
+                                    
+            <tr>
+               <td style="text-align:center">2005-01-31</td>
+            
+            
+            
+                              
+                              
+                  <td style="text-align:center">$709</td>
+                  
+                           
+                        
+              </tr>
+              
+              
+            </tbody>
+           </table>
+           
